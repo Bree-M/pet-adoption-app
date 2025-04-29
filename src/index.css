@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.navbar {
+  background-color: #ff7f50;
+  padding: 10px;
+}
+
+.new-pet-form {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 400px;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+
+.pet-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pet-card {
+  background-color: #e0ffff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  width: 180px;
+}
+
+.footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: gray;
+}
