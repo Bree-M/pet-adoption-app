@@ -1,0 +1,17 @@
+{
+    "pets": [
+      {
+        "id": 1,
+        "name": "Whiskers",
+        "type": "Cat",
+        "age": 2
+      },
+      {
+        "id": 2,
+        "name": "Rover",
+        "type": "Dog",
+        "age": 5
+      }
+    ]
+  }
+  
